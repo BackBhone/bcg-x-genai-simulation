@@ -1,0 +1,39 @@
+You: What is Apple's total revenue?
+Bot: Apple's total revenue in 2025 was $416.2 billion.
+
+You: How has net income changed over the last year?
+Bot: Apple's net income increased by $18.3 billion (+19.5%) from 2024 to 2025, reaching $112.0 billion.
+
+You: What is the profit margin?
+Bot: Apple's net profit margin in 2025 was 26.9%. That means it kept about 27 cents of profit from every dollar of revenue.
+
+You: How much debt does the company have?
+Bot: In 2025, Apple had total liabilities of $285.5 billion against total assets of $359.2 billion, a debt ratio of 79.5%.
+
+You: What is the operating cash flow?
+Bot: Apple generated $111.5 billion of cash from operating activities in 2025.
+
+You: What is Microsoft's total revenue in 2024?
+Bot: Microsoft's total revenue in 2024 was $245.1 billion.
+
+You: How has Tesla's net income changed over the last year?
+Bot: Tesla's net income decreased by $3.3 billion (-46.5%) from 2024 to 2025, reaching $3.8 billion.
+
+You: What about Microsoft?
+Bot: Microsoft's net income increased by $13.7 billion (+15.5%) from 2024 to 2025, reaching $101.8 billion.
+
+You: And in 2024?
+Bot: Microsoft's net income increased by $15.8 billion (+21.8%) from 2023 to 2024, reaching $88.1 billion.
+
+You: What is the total revenue?
+Bot: Microsoft's total revenue in 2024 was $245.1 billion.
+
+You: How has net income changed in 2023?
+Bot: Microsoft's net income in 2023 was $72.4 billion. I don't have 2022 data to compare it with.
+
+You: What is Apple's revenue in 2021?
+Bot: Sorry, I only have data for 2023 to 2025.
+
+You: What is the weather today?
+Bot: Sorry, I can only answer a few predefined financial questions. Type 'help' to see what I can answer.
+
